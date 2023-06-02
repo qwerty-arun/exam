@@ -19,5 +19,12 @@
 - [ ] Write functions to convert feet to inches, convert inches to centimeters, and convert centimeters to meters. Write a program that prompts a user for a measurement in feet and converts and outputs this value in meters. Facts to use: 1ft=12 inches, 1 inch=2.54 cm, 100cm= 1 meter.
 - [ ] Using functions, write a program to generate prime numbers between given numbers.
 - [ ] Write a C program to add two complex numbers using structures.
+- [ ] Write a program to print the following pattern.
+         1
+         12
+         123
+         1234
+         12345
+- [ ] Write a C program to generate the Fibonacci sequence accepting the maximum length of the sequence from user. 
 - [ ] 
 
