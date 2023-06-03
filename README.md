@@ -22,11 +22,11 @@
 - [ ] Using functions, write a program to generate prime numbers between given numbers.
 - [ ] Write a C program to add two complex numbers using structures.
 - [ ] Write a program to print the following pattern.</br>
-         1
-         12
-         123
-         1234
-         12345
+         1</br>
+         12</br>
+         123</br>
+         1234</br>
+         12345</br>
 - [ ] Write a C program to generate the Fibonacci sequence accepting the maximum length of the sequence from user. 
 - [ ] 
 
