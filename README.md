@@ -14,7 +14,7 @@
 - [x] Write a program to print a Pascal Triangle and no. of rows is entered by user.
 - [ ] Write a program to delete all the duplicate entries from an array of 'n' integers.
 - [ ] Write a C program which uses a pointer to access the array elements without using the length of the string.
-- [ ] Write a C program to sort the numbers using the Selection sort using function.   
+- [x] Write a C program to sort the numbers using the Selection sort using function.   
 - [ ] Write a C program to sort the elements using Bubble Sort technique using function.
 - [ ] Write a C program to find the factorial of a given number using recursion. 
 - [ ] Write a program that reads an array of 100 integers. Then display all the pairs of elements in the array whose sum is 50. 
