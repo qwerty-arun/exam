@@ -2,7 +2,7 @@
 void swap(int* , int *);
 int main() {
    int a=6,b=8;
-   printf("Before swapping: a=%d and b=%d",a,b);
+   printf("Before swapping: a=%d and b=%d\n",a,b);
    swap(&a,&b);
     return 0;
 }
