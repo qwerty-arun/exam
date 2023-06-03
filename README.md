@@ -6,7 +6,7 @@
 - [ ] Matrix multiplication using functions. 
 - [ ] Illustrate the comparison of two strings without using built in functions with a suitable C program.
 - [ ] Trace of a matrix using functions.
-- [ ] Implement a C program to swap two numbers to demonstrate the advantage of pass-by-reference.
+- [x] Implement a C program to swap two numbers to demonstrate the advantage of pass-by-reference.
 - [ ] Develop a C program using structures to compute average marks of 'n' students(Name,Roll_No,TestMarks) and search a particular record based on 'Roll_No'.
 - [ ] Write a program to calculate salary of an employee, given his basic pay (to be entered by the user), HRA=10% of the basic pay, TA=5% of basic pay. Define HRA and TA as constants and use them to calculate the salary of the employee.
 - [ ] Write a program to prepare a grocery bill. For that enter the name of the items purchased, quantity in which it is purchased, and its price per unit. Then display the bill in the following format.
