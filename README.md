@@ -18,7 +18,6 @@
 - [x] Write a C program to sort the elements using Bubble Sort technique using function.
 - [x] Write a C program to find the factorial of a given number using recursion. 
 - [ ] Write a program that reads an array of 100 integers. Then display all the pairs of elements in the array whose sum is 50. 
-- [ ] Write functions to convert feet to inches, convert inches to centimeters, and convert centimeters to meters. Write a program that prompts a user for a measurement in feet and converts and outputs this value in meters. Facts to use: 1ft=12 inches, 1 inch=2.54 cm, 100cm= 1 meter.
 - [x] Write a C program to add two complex numbers using structures.
 - [x] Write a program to print the following pattern.</br>
          1</br>
