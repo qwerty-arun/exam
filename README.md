@@ -26,5 +26,6 @@
          1234</br>
          12345</br>
 - [x] Write a C program to generate the Fibonacci sequence accepting the maximum length of the sequence from user. 
+- [x] Write a C program to reverse the array.
 - [ ] 
 
