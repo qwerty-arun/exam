@@ -9,8 +9,6 @@
 - [x] Implement a C program to swap two numbers to demonstrate the advantage of pass-by-reference.
 - [ ] Develop a C program using structures to compute average marks of 'n' students(Name,Roll_No,TestMarks) and search a particular record based on 'Roll_No'.
 - [ ] Write a program to calculate salary of an employee, given his basic pay (to be entered by the user), HRA=10% of the basic pay, TA=5% of basic pay. Define HRA and TA as constants and use them to calculate the salary of the employee.
-- [ ] Write a program to prepare a grocery bill. For that enter the name of the items purchased, quantity in which it is purchased, and its price per unit. Then display the bill in the following format.
-- [ ] Write a program to print a multiplication table of a given number, after printing the multiplication table the program should ask the user “Do you want to continue [Yes/No]? ”. If a user enters “y” or “Y”, then the program should print a multiplication table of the given new number and if the user enters “n” or “N”, then the program should exit.
 - [x] Write a program to print a Pascal Triangle and no. of rows is entered by user.
 - [ ] Write a program to delete all the duplicate entries from an array of 'n' integers.
 - [ ] Write a C program which uses a pointer to access the array elements without using the length of the string.
